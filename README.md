@@ -1,4 +1,4 @@
-# community contribution docs for nonsensetwice
+# community contribution docs for strvtmvmnt
 
 this repository houses all of the default documentation for all personal open
 source projects. this includes:
