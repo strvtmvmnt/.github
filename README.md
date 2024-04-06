@@ -1,7 +1,7 @@
 # community contribution docs for strvtmvmnt
 
-this repository houses all of the default documentation for all personal open
-source projects. this includes:
+this repository houses all of the default documentation for all open
+source projects directed by strvtmvmnt. this includes:
 - code of conduct
 - contributing guidelines
 - discussion category forms
