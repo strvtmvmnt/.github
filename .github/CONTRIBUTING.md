@@ -22,7 +22,7 @@ repository and submit a pull request. [ESLint] is highly recommended; install
 it in your text editor or IDE and routinely run the linting script to ensure your
 code will pass any GitHub Actions that are set to run when you submit a pull request.
 
-### nonsensetwice project concepts guidelines
+### strvtmvmnt project concepts guidelines
 
 there are a number of guidelines considered when reviewing pull requests.
 guidelines are fairly generalized; as such, these are not hard and fast rules,
